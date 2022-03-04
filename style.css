@@ -1,0 +1,14 @@
+body{
+    color:rgb(255, 0, 0);
+    background:rgb(0, 255, 251);
+    font-family: 'Shizuru', cursive;
+    font-size: x-large;
+}
+#sad{
+    border:rgb(255, 0, 0) 5px solid;
+}
+#camera{
+    border:rgb(255, 0, 0) 5px dotted ;
+    width: 350px;
+    height: 300px;
+}
